@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-class hakkinda extends StatelessWidget {
+
+class Hakkinda extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     String baslik = "HAKKINDA SAYFASI";
@@ -15,7 +16,8 @@ class hakkinda extends StatelessWidget {
             flexibleSpace: FlexibleSpaceBar(
               centerTitle: true,
               title: Text(
-                "$baslik",textAlign: TextAlign.center,
+                "$baslik",
+                textAlign: TextAlign.center,
                 style: TextStyle(color: Colors.white),
               ),
             ),
@@ -30,7 +32,8 @@ class hakkinda extends StatelessWidget {
               child: SingleChildScrollView(
                 child: Padding(
                   padding: const EdgeInsets.all(20.0),
-                  child: Text("Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3311456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 183311048 numaralı Yaşar Ulaş tarafından 30 Nisan 2021 günü yapılmıştır",
+                  child: Text(
+                    "Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3311456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 183311048 numaralı Yaşar Ulaş tarafından 25 Haziran 2021 günü yapılmıştır",
                     style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
                   ),
                 ),
@@ -38,7 +41,7 @@ class hakkinda extends StatelessWidget {
             ),
           ),
           SliverToBoxAdapter(
-            child: FlatButton(
+            child:ElevatedButton(
               onPressed: () {
                 Navigator.pop(context);
               },
@@ -46,7 +49,7 @@ class hakkinda extends StatelessWidget {
                 "GERİ DÖN",
                 style: TextStyle(color: Colors.white),
               ),
-              color: Colors.black54,
+              style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.black54)),
             ),
           ),
         ],

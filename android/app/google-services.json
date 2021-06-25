@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178288556941",
+    "project_id": "mobilfinal-d6c3e",
+    "storage_bucket": "mobilfinal-d6c3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178288556941:android:e89203803b3206e2b65bc4",
+        "android_client_info": {
+          "package_name": "com.yasarulas.flutter_buyuk_spor_klupleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178288556941-ihmkuosaubsv7em6s7lj1qhu82otg78j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwCprVfBm1F0IEAipP302nmcVqfpRzaSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178288556941-ihmkuosaubsv7em6s7lj1qhu82otg78j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

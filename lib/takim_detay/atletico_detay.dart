@@ -1,6 +1,11 @@
 import 'package:flutter/material.dart';
 
-class atleticoDetay extends StatelessWidget {
+class atleticoDetay extends StatefulWidget {
+  @override
+  _atleticoDetayState createState() => _atleticoDetayState();
+}
+
+class _atleticoDetayState extends State<atleticoDetay> {
   @override
   Widget build(BuildContext context) {
     String takim1 = "Futbol Takımı Özellikleri";
@@ -55,12 +60,11 @@ class atleticoDetay extends StatelessWidget {
             ),
           ),
           SliverToBoxAdapter(
-            child: FlatButton(
+            child: BackButton(
               onPressed: () {
                 Navigator.pop(context);
               },
-              child: Text("GERİ DÖN",style: TextStyle(color: Colors.white),),
-              color: Colors.black54,
+              color: Colors.black,
             ),
           ),
         ],

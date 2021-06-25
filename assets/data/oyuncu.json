@@ -1,0 +1,99 @@
+[
+  {
+    "koc": "Emre Belözoğlu",
+    "kulup": "Fenerbahçe",
+    "dogum_tarihi": "7 Eylül 1980",
+    "ulkesi":"Türkiye",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Galatasaray,Fenerbahçe,Atlético Madrid"
+  },
+  {
+    "koc": "Fatih Terim",
+    "kulup": "Galatasaray",
+    "dogum_tarihi": "4 Eylül 1953",
+    "ulkesi":"Türkiye",
+    "pozisyon": "Defans",
+    "takimlar": "Adana Demirspor,Galatasaray"
+  },
+  {
+    "koc": "Sergen Yalçın",
+    "kulup": "Beşiktaş",
+    "dogum_tarihi": "5 Ekim 1972",
+    "ulkesi":"Türkiye",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Beşiktaş,Fenerbahçe,Galatasaray,Trabzon"
+  },
+  {
+    "koc": "Andrea Pirlo",
+    "kulup": "Juventus",
+    "dogum_tarihi": "19 Mayıs 1979",
+    "ulkesi":"İtalya",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Inter,Milan,Juventus"
+  },
+  {
+    "koc": "Antonio Conte",
+    "kulup": "Inter",
+    "dogum_tarihi": "31 Temmuz 1969",
+    "ulkesi":"İtalya",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Lecce,Juventus"
+  },
+  {
+    "koc": "Gennaro Gattuso",
+    "kulup": "Napoli",
+    "dogum_tarihi": "9 Ocak 1978",
+    "ulkesi":"İtalya",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Rangers,Milan,Sion"
+  },
+  {
+    "koc": "Ronald Koeman",
+    "kulup": "Barcelona",
+    "dogum_tarihi": "21 Mart 1963",
+    "ulkesi":"Hollanda",
+    "pozisyon": "Defans",
+    "takimlar": "Ajax,Barcelona,Feyenoord"
+  },
+  {
+    "koc": "Zinedine Zidane",
+    "kulup": "Real Madrid",
+    "dogum_tarihi": "23 Haziran 1972",
+    "ulkesi":"Fransa",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Cannes, Bordeaux, Juventus ,Real Madrid"
+  },
+  {
+    "koc": "Diego Simeone",
+    "kulup": "Atlético Madrid",
+    "dogum_tarihi": "28 Nisan 1970",
+    "ulkesi":"Arjantin",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Sevilla,Atlético Madrid,Inter,Lazio"
+  },
+  {
+    "koc": "Edin Terzić",
+    "kulup": "Borussia Dortmund",
+    "dogum_tarihi": "30 Ekim 1982",
+    "ulkesi":"Hırvatistan",
+    "pozisyon": "Forvet",
+    "takimlar": "Borussia Dortmund"
+  },
+  {
+  "koc": "Hans-Dieter Flick",
+  "kulup": "Bayern Munih",
+  "dogum_tarihi": "24 Şubat 1965",
+  "ulkesi":"Almanya",
+  "pozisyon": "Orta Saha",
+  "takimlar": "Bayern Munih,Köln"
+},
+  {
+    "koc": "Gerardo Seoane",
+    "kulup": "Bayer Leverkusen",
+    "dogum_tarihi": "30 Ekim 1978",
+    "ulkesi":"İsviçre",
+    "pozisyon": "Orta Saha",
+    "takimlar": "Sion,Luzern,Deportivo"
+  }
+
+]

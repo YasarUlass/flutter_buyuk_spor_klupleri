@@ -22,7 +22,7 @@ class bayernDetay extends StatelessWidget {
               title: Text(
                 "$takim1",
                 textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.white),
+                style: TextStyle(color: Colors.black),
               ),
             ),
           ),
@@ -56,15 +56,11 @@ class bayernDetay extends StatelessWidget {
             ),
           ),
           SliverToBoxAdapter(
-            child: FlatButton(
+            child: BackButton(
               onPressed: () {
                 Navigator.pop(context);
               },
-              child: Text(
-                "GERİ DÖN",
-                style: TextStyle(color: Colors.white),
-              ),
-              color: Colors.black54,
+              color: Colors.black,
             ),
           ),
         ],

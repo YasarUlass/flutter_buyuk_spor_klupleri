@@ -48,19 +48,18 @@ class fenerDetay extends StatelessWidget {
                     "\tEFSANE OYUNCUSU: Alexsandro de Souza\n\n"
                     "\tHANGİ LİGDE YER ALIYOR: Süper Lig\n\n"
                     "\tTOPLAM KUPA SAYISI: 34",
-                    style: TextStyle(fontSize: 18,fontWeight: FontWeight.w500),
+                    style: TextStyle(fontSize: 18,fontWeight: FontWeight.w500,),
                   ),
                 ),
               ),
             ),
           ),
           SliverToBoxAdapter(
-            child: FlatButton(
+            child: BackButton(
               onPressed: () {
                 Navigator.pop(context);
               },
-              child: Text("GERİ DÖN",style: TextStyle(color: Colors.white),),
-              color: Colors.black54,
+              color: Colors.black,
             ),
           ),
         ],
